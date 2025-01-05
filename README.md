@@ -7,9 +7,10 @@ Hello, my name is Michel, I live and study informatic (programation) in France. 
   <img src="https://skillicons.dev/icons?i=html,css,javascript&perline=3" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,github,git&perline=3" />
+  <img src="https://skillicons.dev/icons?i=react,angular,vue&perline=3" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,python,nodejs&perline=3" />
+  <img src="https://skillicons.dev/icons?i=figma,github,git&perline=3" />
 </p>
+
 
