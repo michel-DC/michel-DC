@@ -1,5 +1,5 @@
 # 🙄 About me !
-Hello, my name is Michel, I live and study informatic (programation) in France. I am passionate about programming since 2021.
+Hello, my name is Michel, I live and study programation in France. I am passionate about programming since 2021.
 
 ---
 
