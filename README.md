@@ -15,5 +15,4 @@ Hello, my name is Michel, I live and study programation in France. I am passiona
 
 <img src="https://raw.githubusercontent.com/michel-DC/michel-DC/output/snake.svg" alt="Snake animation" />
 
-###
 
