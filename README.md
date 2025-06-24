@@ -1,5 +1,7 @@
 # 🙄 About me !
+<p style="font-size: 18px;">
 Hello, my name is Michel, I live and study programation in France. I am passionate about programming since 2021.
+</p>
 
 ---
 
