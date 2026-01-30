@@ -1,6 +1,6 @@
 # 🙄 About me !
 <p style="font-size: 18px;">
-Hello, my name is Michel, I live and study programation in France. I am passionate about programming since 2021.
+Hello, my name is Michel, I live and study programation in France. I mainly use frameworks like Next.JS or React.JS (sometime Symfony) to build websites.
 </p>
 
 ---
