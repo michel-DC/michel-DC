@@ -6,8 +6,8 @@ Hello, my name is Michel, I live and study programation in France. I mainly use 
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,php,mysql&perline=5" />
+  <img src="https://skillicons.dev/icons?i=next,typescript,symfony,angular,nodejs&perline=5" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=next,react,tailwind,supabase,prisma&perline=5" />
+  <img src="https://skillicons.dev/icons?i=python,tailwind,postgresql,supabase,prisma&perline=5" />
 </p>
